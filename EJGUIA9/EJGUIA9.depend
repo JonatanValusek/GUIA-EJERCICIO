@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491246349 source:c:\users\avalusek\desktop\ejguia9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
