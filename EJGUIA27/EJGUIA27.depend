@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1492097465 source:c:\users\avalusek\desktop\ejguia27\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492432932 source:c:\users\avalusek\desktop\guiaejercicios\ejguia27\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
